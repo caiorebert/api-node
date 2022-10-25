@@ -1,0 +1,22 @@
+{
+  "name": "api-teste",
+  "version": "1.0.0",
+  "description": "api de teste ligando com app flutter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiorebert/api-teste.git"
+  },
+  "author": "Caio Rebert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiorebert/api-teste/issues"
+  },
+  "homepage": "https://github.com/caiorebert/api-teste#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
